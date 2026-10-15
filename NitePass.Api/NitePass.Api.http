@@ -1,0 +1,9 @@
+@NitePass.Api_HostAddress = https://localhost:5010
+
+POST {{NitePass.Api_HostAddress}}/Event/ListarCategorias
+Accept: application/json
+
+###
+
+POST {{NitePass.Api_HostAddress}}/City/ListarCiudades
+Accept: application/json

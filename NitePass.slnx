@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NitePass.Api/NitePass.Api.csproj" />
+  <Project Path="NitePass.Application/NitePass.Application.csproj" />
+  <Project Path="NitePass.Domain/NitePass.Domain.csproj" Id="60ce9b48-fe01-457b-abda-a3cd6ba2877e" />
+  <Project Path="NitePass.Infrastructure/NitePass.Infrastructure.csproj" Id="f49a0ec2-8f53-49e5-8bc1-a1fe0530d22e" />
+</Solution>
